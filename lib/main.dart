@@ -112,7 +112,7 @@ class TinderLoginScreen extends StatelessWidget {
 class LoginButton extends StatelessWidget {
   final IconData icon;
   final String text;
-  final Color iconColor; // Adicionando a cor do ícone
+  final Color iconColor; // Adicionando a cor do  ícone
 
   LoginButton(
       {required this.icon, required this.text, required this.iconColor});
